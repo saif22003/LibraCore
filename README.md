@@ -1,4 +1,5 @@
-# 📚 LibraCore (Library Management Backend) [Django REST API]
+# 📚 LibraCore (Library Management Backend) 
+     [Django REST API]
 **LibraCore** is a **Django REST API backend** for managing library operations efficiently.  
 It handles **book issuing, returns, overdue fines, member profiles**, and audit tracking using clean architecture and production-ready workflows.
 
